@@ -1,0 +1,29 @@
+{
+  "name": "CoinDCXBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kir4Kun/CoinDCXBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kir4Kun/CoinDCXBot/issues"
+  },
+  "homepage": "https://github.com/Kir4Kun/CoinDCXBot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "lowdb": "^1.0.0",
+    "ora": "^5.4.0",
+    "puppeteer": "^8.0.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
